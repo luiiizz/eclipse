@@ -1,0 +1,19 @@
+package Ex1;
+
+import Ex1.produto;
+
+public class pedido {
+	public int num_ped;
+	public produto itens;
+	public int quantidade;
+	
+	public pedido(int num_ped, produto itens, int quantidade) {
+		super();
+		this.num_ped = num_ped;
+		this.itens = itens;
+		this.quantidade = quantidade;
+	}
+	
+	
+	
+}

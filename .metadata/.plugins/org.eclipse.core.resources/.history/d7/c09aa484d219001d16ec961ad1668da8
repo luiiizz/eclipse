@@ -1,0 +1,18 @@
+
+public class intituicao {
+	
+	public String nome;
+	
+	public int cnpj;
+	
+	public String endereco;
+	
+	public static int validar_Agendamento(int agendamento.id_agendamento){
+		
+	}
+	
+	public static int lancar_doacao(String[] args){
+		System.out.println("Doação lançada com sucesso");
+	}
+	
+}

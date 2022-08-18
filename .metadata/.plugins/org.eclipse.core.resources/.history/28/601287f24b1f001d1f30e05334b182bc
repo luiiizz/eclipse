@@ -1,0 +1,13 @@
+package Ex1;
+
+import Ex1.produto;
+
+public class pedido {
+	public int num_ped;
+	public produto itens;
+	public int quantidade;
+	public String tipo_pagamento;
+	
+
+	
+}

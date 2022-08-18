@@ -1,0 +1,8 @@
+
+public class intituicao {
+	
+	public String nome;
+	
+	public int cnpj;
+
+}

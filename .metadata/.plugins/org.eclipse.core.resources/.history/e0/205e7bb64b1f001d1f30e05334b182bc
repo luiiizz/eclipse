@@ -1,0 +1,12 @@
+package principal;
+
+import Ex1.produto;
+
+public class aplicacao {
+    public static void main(String[] args) throws Exception {
+        System.out.println("Hello, World!");
+        
+        produto a;
+        produto b;
+    }
+}

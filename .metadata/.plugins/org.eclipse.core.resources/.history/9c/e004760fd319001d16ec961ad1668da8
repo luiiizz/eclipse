@@ -1,0 +1,15 @@
+
+public class Aplicaticion {
+
+	public static void main(String[] args) {
+		agendamento ag1 = new agendamento();
+		ag1.exibir_Agendamento(null);
+		
+		instituicao ag1 = new instituicao();
+		ag1.lancar_doacao(null);
+		ag1.validar_Agendamento();
+		
+
+	}
+
+}

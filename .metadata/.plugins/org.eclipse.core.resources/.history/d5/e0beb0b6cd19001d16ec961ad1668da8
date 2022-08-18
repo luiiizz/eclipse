@@ -1,0 +1,13 @@
+
+public class usuario {
+	
+	public String nome_completo;
+	
+	public int id_usuario;
+	
+	public String data_nascimento;
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+	}
+}

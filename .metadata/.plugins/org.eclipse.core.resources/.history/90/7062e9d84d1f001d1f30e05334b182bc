@@ -1,0 +1,21 @@
+package Ex2;
+
+import Ex2.contato;
+
+public class agenda {
+	public contato contatos;
+
+	public agenda(contato contato1) {
+		super();
+		this.contatos = contato1;
+	}
+	
+	contato contato11;
+	
+	contato11 = 20;
+	
+	System.out.printf(contato11);
+	
+	
+	
+}

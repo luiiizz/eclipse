@@ -1,0 +1,8 @@
+package Ex2;
+
+import Ex2.contato;
+
+public class agenda {
+	public contato contato1;
+
+}
