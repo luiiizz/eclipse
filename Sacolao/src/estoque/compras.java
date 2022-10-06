@@ -19,13 +19,17 @@ public class compras {
 		System.out.println("\nO novo estoque é: " + estoqueAtual);
 		return estoqueAtual;
 	}
-
-	public void addProduto(String produto) {
-		this.produto = produto;
+	
+	public void exibirCompra() {
+		System.out.println("Compra Realizada:"
+				+ "\nProduto: " + produto
+				+ "\nQuantidade: " + quantidade
+				+ "\nValor Total: " + valor_total
+				+ "\nTipo de Pagamento: " + tipo_de_pagamento);
 	}
 
-	public float getValor_total() {
-		return valor_total;
+	public void addProduto(String produto) {
+		quantidade ++;
 	}
 
 }
